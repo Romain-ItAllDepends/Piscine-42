@@ -1,8 +1,8 @@
 # Piscine 42
 Le tronc commun est la partie durant laquelle on apprend les bases de la programmation !
 ## Mes projets :
-- SH00 :white_check_mark: &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![70%](https://progress-bar.dev/70)
-- SH01 :white_check_mark: &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![55%](https://progress-bar.dev/55)
+> - SH00 :white_check_mark: &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![70%](https://progress-bar.dev/70)
+> - SH01 :white_check_mark: &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![55%](https://progress-bar.dev/55)
 - C00 :white_check_mark: &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;![60%](https://progress-bar.dev/60)
 - C01 :white_check_mark: &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;![50%](https://progress-bar.dev/50)
 - C02 :white_check_mark: &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;![65%](https://progress-bar.dev/65)
@@ -20,7 +20,7 @@ Le tronc commun est la partie durant laquelle on apprend les bases de la program
 - Rush01 :x: &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![0%](https://progress-bar.dev/0) (Non fait)
 - Rush02 :x: &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![0%](https://progress-bar.dev/0) (Flag norme/crash)
 - Rush03 :x: &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![0%](https://progress-bar.dev/0) (Flag crash)
-<br>
+
 - Exam 00 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![80%](https://progress-bar.dev/80)
 - Exam 01 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![80%](https://progress-bar.dev/80)
 - Exam 02 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![70%](https://progress-bar.dev/70)
