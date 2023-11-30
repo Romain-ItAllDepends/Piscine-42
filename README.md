@@ -1,5 +1,5 @@
 # Piscine 42
-Le tronc commun est la partie durant laquelle on apprend les bases de la programmation !
+La piscine est une étape obligatoire à 42 ! Sans passer la piscine, il est impossible de devenir étudiant à 42.
 ## Mes projets :
 
 - SH00 :white_check_mark: &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![70%](https://progress-bar.dev/70)
