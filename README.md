@@ -21,7 +21,7 @@ Le tronc commun est la partie durant laquelle on apprend les bases de la program
 - Rush02 :x:
 - Rush03 :x:
 
-- Exam 00 ![80%](https://progress-bar.dev/80)
+- Exam 00 <tab>![80%](https://progress-bar.dev/80)
 - Exam 01 ![80%](https://progress-bar.dev/80)
 - Exam 02 ![70%](https://progress-bar.dev/70)
 - Final Exam ![66%](https://progress-bar.dev/66)
