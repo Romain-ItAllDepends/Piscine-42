@@ -1,7 +1,7 @@
 # Piscine 42
 Le tronc commun est la partie durant laquelle on apprend les bases de la programmation !
 ## Mes projets :
-- SH00 :white_check_mark:
+- SH00 :white_check_mark: ![90%](https://progress-bar.dev/90)
 - SH01 :white_check_mark:
 - C00 :white_check_mark:
 - C01 :white_check_mark:
@@ -20,6 +20,11 @@ Le tronc commun est la partie durant laquelle on apprend les bases de la program
 - Rush01 :x:
 - Rush02 :x:
 - Rush03 :x:
+
+- Exam 01
+- Exam 02
+- Exam 03
+- Final Exam ![66%](https://progress-bar.dev/66)
 ## Les compétences développées :
 - C
   - ![90%](https://progress-bar.dev/90)
