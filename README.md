@@ -24,7 +24,7 @@ Le tronc commun est la partie durant laquelle on apprend les bases de la program
 - Exam 00 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![80%](https://progress-bar.dev/80)
 - Exam 01 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![80%](https://progress-bar.dev/80)
 - Exam 02 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![70%](https://progress-bar.dev/70)
-- Final Exam &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![66%](https://progress-bar.dev/66)
+- Final Exam &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![66%](https://progress-bar.dev/66)
 ## Les compétences développées :
 - C
   - ![90%](https://progress-bar.dev/90)
