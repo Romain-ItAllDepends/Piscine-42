@@ -22,7 +22,7 @@ Le tronc commun est la partie durant laquelle on apprend les bases de la program
 - Rush01 :x: &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![0%](https://progress-bar.dev/0) (Non fait)
 - Rush02 :x: &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![0%](https://progress-bar.dev/0) (Flag norme/crash)
 - Rush03 :x: &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![0%](https://progress-bar.dev/0) (Flag crash)
-\
+--------------------------------------------------------------------------------------------------------------------------------------
 - Exam 00 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![80%](https://progress-bar.dev/80)
 - Exam 01 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![80%](https://progress-bar.dev/80)
 - Exam 02 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![70%](https://progress-bar.dev/70)
