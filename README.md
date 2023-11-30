@@ -19,7 +19,7 @@ Le tronc commun est la partie durant laquelle on apprend les bases de la program
 - C13 :x: ![0%](https://progress-bar.dev/0)
 - Rush01 :x: ![0%](https://progress-bar.dev/0) (Non fait)
 - Rush02 :x: ![0%](https://progress-bar.dev/0) (Flag norme/crash)
-- Rush03 :x: &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![0%](https://progress-bar.dev/0) (Flag crash)
+- Rush03 :x: &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![0%](https://progress-bar.dev/0) (Flag crash)
 
 - Exam 00 ![80%](https://progress-bar.dev/80)
 - Exam 01 ![80%](https://progress-bar.dev/80)
