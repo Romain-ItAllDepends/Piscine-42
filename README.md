@@ -3,7 +3,7 @@ La piscine est une étape obligatoire à 42 ! Sans passer la piscine, il est imp
 ## Mes projets :
 
 - SH00 :white_check_mark: &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![70%](https://progress-bar.dev/70)
-- SH01 :white_check_mark: &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![55%](https://progress-bar.dev/55)
+- SH01 :white_check_mark: &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![55%](https://progress-bar.dev/55)
 - C00 :white_check_mark: &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;![60%](https://progress-bar.dev/60)
 - C01 :white_check_mark: &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;![50%](https://progress-bar.dev/50)
 - C02 :white_check_mark: &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;![65%](https://progress-bar.dev/65)
